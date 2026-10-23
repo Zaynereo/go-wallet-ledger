@@ -441,6 +441,10 @@ That is a single local smoke measurement, not a capacity result. A few seconds l
 - The optional Redpanda service is for local experiments. Broker TLS, SASL, and a transactional consumer are not wired up.
 - Metrics and traces are not exported. Logs carry `request_id`.
 
+## AI assistance
+
+This project was built with AI assistance. The requirements and design goals were mine; I reviewed, ran and tested the result, and I can walk through the design decisions.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
