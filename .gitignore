@@ -1,0 +1,21 @@
+# Binaries and local build output
+/bin/
+/dist/
+*.exe
+*.test
+coverage.out
+*.out
+
+# Env and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Go workspace
+/vendor/
